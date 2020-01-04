@@ -7,7 +7,7 @@ Projekt wykonany przy pomocy oprogramowania na licencji uczelnianej.
 
 * Activity_for_plot.mat 
 ```
-Dane tagów posiłków etc. Richarda Sprague'a.
+Dane tagów posiłków, etc. Richarda Sprague'a.
 ```
 * Wykrywanie_Jedzenia.m
 ```
