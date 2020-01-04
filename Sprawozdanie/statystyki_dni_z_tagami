@@ -1,0 +1,124 @@
+    'new czy_trafnie_wykryto' 
+45 minut +/- dla dni z przynajmniej jednym tagiem.
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.90
+__
+Fałszywe wykrycie posiłku 34.8837%
+Poprawne wykrycie posiłku 65.1163%
+Pominięte posiłki 46.1017%
+Liczba wykrytych punktów: 635
+Liczba otagowanych posiłków: 590
+Czułość = 58.548, Precyzja = 65.116, Wskaźnik błędu wykrywania = 0.137
+Stosunek wykrytych do otagowanych: 1.076
+==============================================
+Czekanie: 5minut, hiper: 0.90
+__
+Fałszywe wykrycie posiłku 34.8837%
+Poprawne wykrycie posiłku 65.1163%
+Pominięte posiłki 46.1017%
+Liczba wykrytych punktów: 635
+Liczba otagowanych posiłków: 590
+Czułość = 58.548, Precyzja = 65.116, Wskaźnik błędu wykrywania = 0.137
+Stosunek wykrytych do otagowanych: 1.076
+==============================================
+ 'Czekanie: 5minut, hiper: 0.90
+
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.80
+__
+Fałszywe wykrycie posiłku 36.7583%
+Poprawne wykrycie posiłku 63.2417%
+Pominięte posiłki 41.3559%
+Liczba wykrytych punktów: 730
+Liczba otagowanych posiłków: 590
+Czułość = 60.462, Precyzja = 63.242, Wskaźnik błędu wykrywania = 0.132
+Stosunek wykrytych do otagowanych: 1.237
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.70
+__
+Fałszywe wykrycie posiłku 38.0729%
+Poprawne wykrycie posiłku 61.9271%
+Pominięte posiłki 33.3898%
+Liczba wykrytych punktów: 900
+Liczba otagowanych posiłków: 590
+Czułość = 64.970, Precyzja = 61.927, Wskaźnik błędu wykrywania = 0.121
+Stosunek wykrytych do otagowanych: 1.525
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.60
+__
+Fałszywe wykrycie posiłku 40.3596%
+Poprawne wykrycie posiłku 59.6404%
+Pominięte posiłki 27.2881%
+Liczba wykrytych punktów: 1063
+Liczba otagowanych posiłków: 590
+Czułość = 68.609, Precyzja = 59.640, Wskaźnik błędu wykrywania = 0.115
+Stosunek wykrytych do otagowanych: 1.802
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.50
+__
+Fałszywe wykrycie posiłku 45.3560%
+Poprawne wykrycie posiłku 54.6440%
+Pominięte posiłki 21.5254%
+Liczba wykrytych punktów: 1369
+Liczba otagowanych posiłków: 590
+Czułość = 71.740, Precyzja = 54.644, Wskaźnik błędu wykrywania = 0.113
+Stosunek wykrytych do otagowanych: 2.320
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.40
+__
+Fałszywe wykrycie posiłku 48.0635%
+Poprawne wykrycie posiłku 51.9365%
+Pominięte posiłki 13.3898%
+Liczba wykrytych punktów: 1663
+Liczba otagowanych posiłków: 590
+Czułość = 79.503, Precyzja = 51.937, Wskaźnik błędu wykrywania = 0.104
+Stosunek wykrytych do otagowanych: 2.819
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.30
+__
+Fałszywe wykrycie posiłku 52.7833%
+Poprawne wykrycie posiłku 47.2167%
+Pominięte posiłki 8.4746%
+Liczba wykrytych punktów: 2130
+Liczba otagowanych posiłków: 590
+Czułość = 84.783, Precyzja = 47.217, Wskaźnik błędu wykrywania = 0.104
+Stosunek wykrytych do otagowanych: 3.610
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.20
+__
+Fałszywe wykrycie posiłku 56.6879%
+Poprawne wykrycie posiłku 43.3121%
+Pominięte posiłki 4.4068%
+Liczba wykrytych punktów: 2661
+Liczba otagowanych posiłków: 590
+Czułość = 90.765, Precyzja = 43.312, Wskaźnik błędu wykrywania = 0.104
+Stosunek wykrytych do otagowanych: 4.510
+==============================================
+statystyki_zbiorcze
+==============================================
+Czekanie: 5minut, hiper: 0.10
+__
+Fałszywe wykrycie posiłku 61.5521%
+Poprawne wykrycie posiłku 38.4479%
+Pominięte posiłki 2.2034%
+Liczba wykrytych punktów: 3581
+Liczba otagowanych posiłków: 590
+Czułość = 94.580, Precyzja = 38.448, Wskaźnik błędu wykrywania = 0.108
+Stosunek wykrytych do otagowanych: 6.069
+==============================================
+
